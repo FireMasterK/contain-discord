@@ -2,7 +2,7 @@
 
 **Prevent Discord from tracking your visits to other websites**
 
-This is a fork of [Discord Container](https://github.com/containers-everywhere/contain-google)
+This is a fork of [Google Container](https://github.com/containers-everywhere/contain-google)
 
 Discord Container is an add-on you can install on Firefox to prevent Discord from tracking your activity on other websites, so you can continue to use Discord while protecting your privacy.
 
@@ -25,10 +25,6 @@ We’ve made it easy to take steps to protect your privacy so you can go on with
 ## How does this affect Discord’s features?
 
 Discord Containers prevents Discord from linking your activity on other websites to your Discord identity. Therefore, the following will not work:
-
-### “Like” buttons and embedded Discord comments on other websites.
-
-Because you are logged into Discord only in the Container, “Like” buttons and embedded Discord comments on other websites will not work.
 
 ### Logging in or creating accounts on other websites using Discord
 
