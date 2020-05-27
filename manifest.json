@@ -5,7 +5,7 @@
 
 	"incognito": "not_allowed",
 
-    "description": "Discord Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.",
+    "description": "Discord Container isolates your Discord activity from the rest of your web activity in order to prevent Discord from tracking you outside of the Discord website via third party cookies.",
 
     "icons": {
         "48": "icon.svg",
@@ -19,7 +19,7 @@
       }
     },
 
-    "homepage_url": "https://github.com/containers-everywhere/contain-google",
+    "homepage_url": "https://github.com/FireMasterK/contain-discord",
 
     "permissions": [
         "<all_urls>",
